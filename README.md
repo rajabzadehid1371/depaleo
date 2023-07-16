@@ -1,0 +1,2 @@
+# depaleo
+deploy smart contract
